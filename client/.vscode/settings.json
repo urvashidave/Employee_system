@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.suggest.showStatusBar": true,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    "terminal.explorerKind": "external",
+    "terminal.integrated.defaultProfile.osx": "bash",
+    "editor.minimap.enabled": false,
+    "workbench.editor.enablePreview": false,
+    "terminal.integrated.tabs.focusMode": "singleClick",
+    "prettier.useTabs": true,
+    "editor.codeActionsOnSave": null,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.singleQuote": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.useEditorConfig": false
+}
